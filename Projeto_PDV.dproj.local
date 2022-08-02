@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/20 08:42:12.000.869,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/20 08:44:53.000.128,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/20 10:23:33.000.539,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/21 08:35:29.000.820,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/21 09:39:44.000.671,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/21 09:51:30.000.981,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/21 10:02:38.000.097,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/27 07:04:33.000.491,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/27 07:21:23.000.855,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\workspace\PDV project\UPrincipal.pas</Transaction>
+    <Transaction>2022/07/27 07:21:23.000.855,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\workspace\PDV project\UPrincipal.dfm</Transaction>
+    <Transaction>2022/07/27 07:21:58.000.924,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\workspace\PDV project\Projeto_PDV.dproj</Transaction>
+    <Transaction>2022/07/27 10:10:55.000.050,=C:\workspace\PDV project\Unit1.pas</Transaction>
+    <Transaction>2022/07/27 10:12:06.000.034,C:\workspace\PDV project\Unit1.pas=C:\workspace\PDV project\Fontes\UDmDados.pas</Transaction>
+    <Transaction>2022/07/27 10:12:06.000.034,C:\workspace\PDV project\Unit1.dfm=C:\workspace\PDV project\Fontes\UDmDados.dfm</Transaction>
+    <Transaction>2022/07/30 07:21:25.000.019,=C:\workspace\PDV project\Unit1.pas</Transaction>
+    <Transaction>2022/07/30 07:24:02.000.124,C:\workspace\PDV project\Unit1.dfm=C:\workspace\PDV project\Fontes\UdmDados1.dfm</Transaction>
+    <Transaction>2022/07/30 07:24:02.000.124,C:\workspace\PDV project\Unit1.pas=C:\workspace\PDV project\Fontes\UdmDados1.pas</Transaction>
+    <Transaction>2022/08/01 09:42:25.000.129,=C:\workspace\PDV project\Unit1.pas</Transaction>
+    <Transaction>2022/08/01 10:00:03.000.115,C:\workspace\PDV project\Unit1.pas=C:\workspace\PDV project\Fontes\UFuncionarios.pas</Transaction>
+    <Transaction>2022/08/01 10:00:03.000.115,C:\workspace\PDV project\Unit1.dfm=C:\workspace\PDV project\Fontes\UFuncionarios.dfm</Transaction>
+    <Transaction>2022/08/01 11:02:12.000.004,=C:\workspace\PDV project\Unit1.pas</Transaction>
+    <Transaction>2022/08/01 11:05:52.000.945,C:\workspace\PDV project\Fontes\UFuncionarios.dfm=C:\workspace\PDV project\Unit1.dfm</Transaction>
+    <Transaction>2022/08/01 11:05:52.000.945,C:\workspace\PDV project\Fontes\UFuncionarios.pas=C:\workspace\PDV project\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
