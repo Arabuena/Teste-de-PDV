@@ -7791,8 +7791,8 @@ object FrmPrincipal: TFrmPrincipal
     BevelOuter = bvLowered
     TabOrder = 1
     object FotosLogos: TImage
-      Left = 48
-      Top = 56
+      Left = 32
+      Top = 32
       Width = 561
       Height = 345
       Stretch = True
@@ -8429,7 +8429,7 @@ object FrmPrincipal: TFrmPrincipal
     Left = 656
   end
   object AbreLogos: TOpenPictureDialog
-    InitialDir = 'C:\workspace\PDV project\Logos'
+    InitialDir = 'C:\workspace\Sistema de Cadastro\Logos'
     Left = 384
     Top = 256
   end
