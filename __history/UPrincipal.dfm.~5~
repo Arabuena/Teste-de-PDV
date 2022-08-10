@@ -63,7 +63,6 @@ object FrmCadastro: TFrmCadastro
     Top = 96
     Width = 545
     Height = 284
-    BevelInner = bvLowered
     Caption = 'Panel1'
     ShowCaption = False
     TabOrder = 2
