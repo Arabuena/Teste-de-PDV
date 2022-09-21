@@ -16,8 +16,15 @@ type
     BitBtn2: TBitBtn;
     BitBtn3: TBitBtn;
     BitBtn4: TBitBtn;
+    BitBtn7: TBitBtn;
+    BitBtn8: TBitBtn;
     BitBtn5: TBitBtn;
     BitBtn6: TBitBtn;
+    BitBtn9: TBitBtn;
+    BitBtn10: TBitBtn;
+    BitBtn11: TBitBtn;
+    BitBtn12: TBitBtn;
+    BitBtn13: TBitBtn;
   private
     { Private declarations }
   public
