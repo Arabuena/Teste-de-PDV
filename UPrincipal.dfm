@@ -37,8 +37,8 @@ object FrmCadastro: TFrmCadastro
       Font.Style = [fsBold]
       ParentFont = False
     end
-    object Label2: TLabel
-      Left = 464
+    object LabelHora: TLabel
+      Left = 432
       Top = 16
       Width = 46
       Height = 23
@@ -46,6 +46,19 @@ object FrmCadastro: TFrmCadastro
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -19
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object LabelData: TLabel
+      Left = 214
+      Top = 45
+      Width = 76
+      Height = 18
+      Caption = 'LabelData'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -15
       Font.Name = 'Tahoma'
       Font.Style = [fsBold]
       ParentFont = False
@@ -9805,5 +9818,11 @@ object FrmCadastro: TFrmCadastro
       09090909090909090909090909090909090909090909096F6375090909090909
       090909090909090909090909090909090909096F6375}
     TabOrder = 5
+  end
+  object Timer1: TTimer
+    Interval = 200
+    OnTimer = Timer1Timer
+    Left = 608
+    Top = 24
   end
 end

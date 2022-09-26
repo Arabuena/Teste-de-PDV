@@ -27,7 +27,10 @@ type
     BitBtn12: TBitBtn;
     BitBtn13: TBitBtn;
     fotosLogos: TImage;
-    Label2: TLabel;
+    LabelHora: TLabel;
+    LabelData: TLabel;
+    Timer1: TTimer;
+    procedure Timer1Timer(Sender: TObject);
   private
     { Private declarations }
   public
@@ -41,4 +44,9 @@ implementation
 
 {$R *.dfm}
 
+procedure TFrmCadastro.Timer1Timer(Sender: TObject);
+begin
+LabelHora.Caption := TimeToStr(Time);
+LabelData.Caption := FormatDateTime('dddd',Date)+ (',')+ FormatDateTime('dd',Date)+ (' de ') + FormatDateTime('mmmm',Date)+ (' de ') + FormatDateTime('yyyy',Date);
+end;
 end.
